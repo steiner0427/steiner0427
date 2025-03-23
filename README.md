@@ -3,7 +3,7 @@
 
 I’m a Korean student interested in AI and algorithms. <br/> My goal is to write an AI paper during my undergraduate studies.
 Feel free to contact me!
-AI, 알고리즘에 관심이 많은 학생입니다. 학부생때 논문 하나 써보는게 목표입니다. <br/> 편하게 연락주세요! <br/>
+<br/> AI, 알고리즘에 관심이 많은 학생입니다. 학부생때 논문 하나 써보는게 목표입니다. <br/> 편하게 연락주세요! <br/>
 jjiho0707@postech.ac.kr
 
 
